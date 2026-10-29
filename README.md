@@ -1,2 +1,3 @@
 # meep-simulation-projects
-In this repo I will upload various beginner level project using MEEP. I will try to write without using Ai and keep the code simple so anyone staring MEEP and FDTD can easily understand .
+
+In this repository, I will share various beginner-level projects using Meep. I will try to write the code using Meep's Python interface without relying on AI, keeping it simple and easy to understand for anyone just starting with Meep and FDTD.
